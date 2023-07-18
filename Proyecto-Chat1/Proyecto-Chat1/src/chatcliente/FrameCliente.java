@@ -266,7 +266,7 @@ public class FrameCliente extends javax.swing.JFrame {
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
-        String nombre = txNom.getText();
+        ´/*String nombre = txNom.getText();
         
         if(nombre.trim().length() == 0)nombre = "SinNombre";
         //String msg = txMsg.getText();
@@ -293,7 +293,7 @@ public class FrameCliente extends javax.swing.JFrame {
         //Utilizamos la funcion del cliente para enviar el archivo 
         cliente.enviarMsg("<h3>"+horaFormateada+"<h3><FONT COLOR=\"blue\"> "+nombre+"</FONT>" + ":  </strong>"  + "<u><FONT COLOR=\"navy\">"+archivo+"</FONT>" +"<br> ");
      
-           }
+           }*/
         
        }
        
