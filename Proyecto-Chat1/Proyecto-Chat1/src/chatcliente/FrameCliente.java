@@ -266,7 +266,7 @@ public class FrameCliente extends javax.swing.JFrame {
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
-        ´/*String nombre = txNom.getText();
+    /*String nombre = txNom.getText();
         
         if(nombre.trim().length() == 0)nombre = "SinNombre";
         //String msg = txMsg.getText();
@@ -295,7 +295,7 @@ public class FrameCliente extends javax.swing.JFrame {
      
            }*/
         
-       }
+       
        
           
 
